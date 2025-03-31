@@ -1,6 +1,11 @@
 pedidos_mamadeiras = []
 pedidos_remedios = []
 
+""" Solicitação inicial de informações do usuário"""
+quarto = input("Digite o número do quarto: ")
+nome_usuario = input("Digite seu nome: ")
+print(f"Bem-vindo(a), {nome_usuario}! Você está no quarto {quarto}.\n")
+
 def solicitar_mamadeira():
     """Solicita uma mamadeira para um bebê."""
     nome_bebe = input("Digite o nome do bebê: ")
