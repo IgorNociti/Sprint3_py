@@ -3,12 +3,10 @@ Integrantes: Henrique Maciel - RM559628 ; Igor Pereira Nociti - RM560225 ; Pedro
 
 Baby Kitchen - Sistema de Gerenciamento de Pedidos
 
-Descrição
-
+Descrição:
 O Baby Kitchen é um sistema interativo desenvolvido em Python para auxiliar hospitais na solicitação de mamadeiras, remédios e no chamado de enfermeiras/médicos. Ele permite que os usuários registrem seus pedidos de forma organizada, evitando desperdícios e garantindo que os bebês sejam atendidos no momento certo.
 
-Funcionalidades
-
+Funcionalidades:
 -Registro do nome e número do quarto do usuário.
 
 -Solicitação de mamadeiras para bebês.
@@ -19,8 +17,7 @@ Funcionalidades
 
 -Exibição de pedidos pendentes.
 
-Como Usar
-
+Como Usar:
 1-Execute o código em um ambiente Python.
 
 2-Digite seu número de quarto e nome para identificação.
@@ -37,13 +34,14 @@ Como Usar
 
 Siga as instruções na tela para concluir suas solicitações.
 
-Requisitos
-
+Requisitos:
 Python 3 instalado no sistema.
 
 Um terminal ou prompt de comando para execução do código.
 
-Exemplo de Uso
+Exemplo de Uso:
+
+
 Digite o número do quarto: 101
 Digite seu nome: Maria
 Bem-vindo(a), Maria! Você está no quarto 101.
