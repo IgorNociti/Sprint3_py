@@ -2,6 +2,10 @@
 Integrantes: Henrique Maciel - RM559628 ; Igor Pereira Nociti - RM560225 ; Pedro Paulo Sabino -RM559578 ; Luigi Bonuccelli - RM560950
 Link para o Diagrama: https://miro.com/app/board/uXjVIItCXyk=/?share_link_id=790663333756
 
+
+link do video: https://youtu.be/LyFW-m5n06Q
+
+
 Baby Kitchen - Sistema de Gerenciamento de Pedidos
 
 Descrição:
